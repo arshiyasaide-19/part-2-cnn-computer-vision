@@ -1,0 +1,4 @@
+Experiment,Filters,Dropout,Batch Size,Epochs,Test Accuracy (%)
+Exp 1 — Baseline,16,0.2,32,15,72.50
+Exp 2 — More Filters,32,0.3,32,20,85.00
+Exp 3 — High Dropout,32,0.5,16,20,78.75
